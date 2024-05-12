@@ -3,9 +3,9 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadAll = false;
-global.antitags = true;
+global.antitags = false;
 
 
 //auto functioner
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.Owner = ["91702504312", "918714576235", "917012791617"];         //If you want singal number so global.Owner = ['917025045312'] Change into your number.
+global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['917025045312'] Change into your number.
+global.ownertag = ["917025045312"];
+global.OwnerName = "_p4x_ppx_007_";
+global.BotName = "_p4x_ppx_007_";
+global.packname = "_p4x_ppx_007_";                             //Do not change.
+global.author = "By: _p4x_ppx_007_";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
